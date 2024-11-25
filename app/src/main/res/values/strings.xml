@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LearnState</string>
+    <string name="title_activity_wellness_screen">WellnessScreen</string>
+    <string name="title_activity_water_counter">WaterCounter</string>
+    <string name="title_activity_wellness_task_item">WellnessTaskItem</string>
+    <string name="title_activity_wellness_view_model">WellnessViewModel</string>
+    <string name="title_activity_wellness_task">WellnessTask</string>
+    <string name="title_activity_wellness_task_list">WellnessTaskList</string>
+</resources>
